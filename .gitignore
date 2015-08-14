@@ -1,2 +1,4 @@
 *.DS_Store
 *.swp
+# because too large size
+latest/latest.psd
